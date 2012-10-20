@@ -1,4 +1,4 @@
-fordcollection
-==============
+html5-gallery
+=============
 
-Ford Collection #1
+HTML5 Gallery App for Android using Apache Cordova as a HTML5 engine.
